@@ -1,4 +1,4 @@
-# Unity: carpetas que se regeneran solas
+# ---- Unity: carpetas que se regeneran solas ----
 **/[Ll]ibrary/
 **/[Tt]emp/
 **/[Oo]bj/
@@ -7,12 +7,37 @@
 **/[Bb]uilds/
 **/[Uu]ser[Ss]ettings/
 **/MemoryCaptures/
+**/[Rr]ecordings/
+
+# ---- Editores ----
 **/.vs/
+**/.vscode/
 **/.idea/
 *.csproj
 *.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ---- Compilados para el visor / celular (pesan mucho) ----
 *.apk
 *.aab
 *.app
+*.ipa
 *.unitypackage
+
+# ---- Mac ----
 .DS_Store
+
+# ---- Versión web para GitHub Pages: SÍ se sube ----
+!docs/
+!docs/Build/
+!docs/Build/**
+!docs/TemplateData/
+!docs/TemplateData/**
