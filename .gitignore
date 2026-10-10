@@ -1,0 +1,18 @@
+# Unity: carpetas que se regeneran solas
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Uu]ser[Ss]ettings/
+**/MemoryCaptures/
+**/.vs/
+**/.idea/
+*.csproj
+*.sln
+*.apk
+*.aab
+*.app
+*.unitypackage
+.DS_Store

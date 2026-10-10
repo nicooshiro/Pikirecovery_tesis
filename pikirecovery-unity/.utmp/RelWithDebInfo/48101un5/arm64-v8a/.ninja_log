@@ -1,0 +1,23 @@
+# ninja log v5
+0	879	1791250772239513520	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	a3a8da7b8a750f61
+1	810	1791250772171287694	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	66b23e087e67948b
+1	730	1791250772091192383	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8357293a634afab2
+879	965	1791250772326976049	/Users/nicolasoshiro/Downloads/pikirecovery-unity/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/48101un5/obj/arm64-v8a/libgame.so	c1ac2712c8408359
+0	663	1791250772024506160	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7e26a09db0e67eaa
+1	647	1791250772007131563	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	eb6be8d757335b0a
+1	644	1791250772003465642	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e23b5f502708fa5e
+1	692	1791250772052381681	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1ea57bc8f7ffb0e
+158	278	1791250771628452621	/Users/nicolasoshiro/Downloads/pikirecovery-unity/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/48101un5/obj/arm64-v8a/libswappywrapper.so	a3d36b12b41b2465
+1	660	1791250772020562818	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3caa37fe330e53fc
+2	157	1791250771520725751	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	218c94319ee83c54
+4	551	1791315768686530627	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	218c94319ee83c54
+551	871	1791315768987722590	/Users/nicolasoshiro/Downloads/pikirecovery-unity/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/48101un5/obj/arm64-v8a/libswappywrapper.so	a3d36b12b41b2465
+4	964	1791315769097387340	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e23b5f502708fa5e
+3	968	1791315769101622413	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	eb6be8d757335b0a
+4	993	1791315769115817282	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3caa37fe330e53fc
+3	993	1791315769115807324	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7e26a09db0e67eaa
+3	1034	1791315769160315491	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1ea57bc8f7ffb0e
+4	1049	1791315769178909765	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8357293a634afab2
+4	1190	1791315769318416485	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	66b23e087e67948b
+3	1219	1791315769351168253	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	a3a8da7b8a750f61
+1219	1317	1791315769453424635	/Users/nicolasoshiro/Downloads/pikirecovery-unity/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/48101un5/obj/arm64-v8a/libgame.so	c1ac2712c8408359
